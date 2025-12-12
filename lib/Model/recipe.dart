@@ -6,7 +6,7 @@ class Recipe {
 
   static List<Recipe> samples = [
     Recipe('Spaghetti', 'assets/images/spaghetti.webp'),
-    Recipe('Beaf Steak', 'assets/images/beaf.webp'),
+    Recipe('Beef Steak', 'assets/images/beaf.webp'),
     Recipe('Fish Curry', 'assets/images/fishcurry.webp'),
     Recipe('Pad Thai', 'assets/images/padthai.webp'),
     Recipe('Larb', 'assets/images/larb.webp'),
